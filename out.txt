@@ -1,0 +1,37 @@
+
+	Array Name: B Array Size: 1
+	Array Name: A Array Size: (1, 2)
+DIM Statement. Arrays defined
+
+
+PRINT Statement. Values Printed
+
+
+DEF Statement. Function defined
+
+
+	Identifier I
+FOR statement.
+
+INVALID! NEXT for Z
+
+GOTO 11 Statement. Jump
+
+
+	 Input Value : A
+	 Input Value : A$
+	 Input Value : Y(2)
+
+INPUT Statement. Values Taken
+
+REM Statement. Comment
+
+
+INVALID!! Var A$ is string
+LET Statement. Values Stored
+
+END Statement. Program Terminates
+
+INVALID! No NEXT for I
+INVALID! Line number 11 doesn't exist!
+--- TOTAL 4 errors ---
