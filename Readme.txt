@@ -1,8 +1,8 @@
 -----------------------CS202 Project--------------------------
 -------------------- B-- Lexer and Parser --------------------
 
-Kartik Tiwari 2021CSB1102
 Hitesh Singla 2021CSB1094
+Kartik Tiwari 2021CSB1102
 
 1. Usage :
 	Use the makefile provided as follows :
@@ -32,5 +32,3 @@ Hitesh Singla 2021CSB1094
 	a) If line numbers not in ascending order, error given
 	b) If a goto, gosub, or if statement points to a line no that doesn't exist, then error
 	c) Single NEXT statements also show errors
-	
-In case of any other discrepancy with the outcome you expected, please contact at 2021csb1102@iitrpr.ac.in as there are just too many corner cases here.
